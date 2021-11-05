@@ -29,10 +29,19 @@ h2 {
 
 .banner-content {
   color: #fff;
-  font-family: Lobster, sans-serif;
+  /* font-family: Lobster, sans-serif; */
   text-shadow: .1em .1em .3em rgba(0, 0, 0, .6);
 }
 
   .yotta {
     font-family: "Cormorant Garamond", serif;
   }
+
+.ib {
+    font-family: "Delius Unicase", sans-serif;
+  }
+
+.push-1-2 {
+  margin-bottom: 1.7rem;
+  margin-top: 1rem;
+}
